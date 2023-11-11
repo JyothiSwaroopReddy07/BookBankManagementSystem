@@ -1,6 +1,8 @@
 # BookBankManagementSystem
 Library book management system made using c++ languange during my software engineering coursework
 
+# UML Diagrams
+
 ## Class Diagram
 ![Screenshot 2023-11-11 205250](https://github.com/JyothiSwaroopReddy07/BookBankManagementSystem/assets/107217455/2fca13dd-470e-4b35-87b6-35dbd96aa771)
 
@@ -21,6 +23,3 @@ Library book management system made using c++ languange during my software engin
 
 ## Sequence Diagram
 ![image](https://github.com/JyothiSwaroopReddy07/BookBankManagementSystem/assets/107217455/ba8d6c3a-0d04-4f1f-bddf-86c637cc651a)
-
-## Activity Diagram
-![image](https://github.com/JyothiSwaroopReddy07/BookBankManagementSystem/assets/107217455/6057e5c0-a024-44d9-ae15-f4641330a791)
